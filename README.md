@@ -1,10 +1,6 @@
-# udemig_ilk_proje
+<h1> Udemig_school<h1>
 
-# udemig_ilk_proje
+Ogrenci ve Ögretmenler arasında etkileşimi arttiran bir app
 
-# udemig_ilk_proje
-
-# udemig_ilk_proje
-
-# udemig_ilk_proje
+<h2>Harici Kütüphaneler<h2>
 # udemig_school
