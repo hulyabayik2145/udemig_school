@@ -1,4 +1,4 @@
-<h3> Udemig_school<h3>
+<h3> udemig_school <h3>
 
 Bu bir udemig okulu projesidir
 
@@ -7,3 +7,5 @@ Bu bir udemig okulu projesidir
 Html-Css
 
 <h3> İçerik Videosu <h3>
+
+![](udemig.gif)
