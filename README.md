@@ -1,11 +1,11 @@
-<h1> Udemig_school<h1>
+<h3> Udemig_school<h3>
 
-Bir udemig school projesidir
+Bu bir udemig okulu projesidir
 
-<h2>Kullanılan Diller<h2>
+<h3>Kullanılan Diller<h3>
 
-HTML, CSS
+Html-Css
 
-<h2>Ekran Görüntüsü<h2>
+<h3> İçerik Videosu <h3>
 
 ![](udemig.gif)
