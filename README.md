@@ -7,5 +7,3 @@ Bu bir udemig okulu projesidir
 Html-Css
 
 <h3> İçerik Videosu <h3>
-
-video silindi
