@@ -8,4 +8,4 @@ Html-Css
 
 <h3> İçerik Videosu <h3>
 
-![](udemig.gif)
+video silindi
