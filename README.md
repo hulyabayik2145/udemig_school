@@ -4,7 +4,7 @@ Bu bir udemig okulu projesidir
 
 <h3>Kullanılan Diller</h3>
 
-Html-Css
+Html-Css css
 
 <h3> İçerik Videosu </h3>
 
